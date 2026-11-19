@@ -1,0 +1,7 @@
+# Нота 60: обычный звук на нажатие и короткий звук на отпускание.
+File name:060_C_down_1.wav=but0 not060 vel000-127 vol-06db mut000 out1/2
+File name:060_C_down_2.wav=but1 not060 vel000-127 vol-18db mut000 out1/2
+
+# Нота 61 (закрытый хэт) глушит ноту 62 (открытый хэт).
+File name:061_closed_hat.wav=but0 not061 vel000-127 vol-09db mut062 out1/2
+File name:062_open_hat.wav=but0 not062 vel000-127 vol-09db mut000 out1/2

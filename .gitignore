@@ -1,0 +1,8 @@
+.deps/
+.tools/
+build/
+release/
+*.user
+*.suo
+.DS_Store
+sampler-diagnostic.wav

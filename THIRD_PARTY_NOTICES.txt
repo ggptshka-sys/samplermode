@@ -1,0 +1,10 @@
+SamplerMode uses the Steinberg VST 3 Software Development Kit under its GNU General Public License Version 3 option.
+
+VST is a trademark of Steinberg Media Technologies GmbH. SamplerMode is an independent project and is not affiliated with or endorsed by Steinberg Media Technologies GmbH.
+
+VST 3 SDK: https://github.com/steinbergmedia/vst3sdk
+SDK version used: v3.7.14_build_55
+SDK licensing information: https://steinbergmedia.github.io/vst3_dev_portal/pages/VST+3+Licensing/
+
+The corresponding SamplerMode source code and the pinned SDK download instructions are available at:
+https://github.com/ggptshka-sys/samplermode
